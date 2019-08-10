@@ -1,0 +1,6 @@
+export const ROOT = 'SOME_URL';
+export const REQUEST_ACTIONS = 'REQUEST_ACTIONS';
+export const RECEIVE_ACTIONS = 'RECEIVE_ACTIONS';
+
+export const REQUEST_ACTION = 'REQUEST_ACTION';
+export const RECEIVE_ACTION = 'RECEIVE_ACTION';
